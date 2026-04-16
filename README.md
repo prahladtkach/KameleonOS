@@ -1,4 +1,6 @@
 # Kameleon OS
+<img width="900" height="556" alt="image" src="https://github.com/user-attachments/assets/0cb0daf5-4edb-4bcc-9731-da114d367be3" />
+
 
 **Kameleon** es un sistema operativo mutante que se adapta al usuario como un camaleón a su entorno. El nombre significa *"camaleón"* en noruego y polaco: el sistema cambia constantemente de funcionamiento según el usuario, el contexto y la situación.
 
